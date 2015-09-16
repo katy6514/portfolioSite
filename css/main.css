@@ -1,0 +1,261 @@
+/* ==========================================================================
+   Project-Specific Style in this file for
+
+   Project: KIW homepage
+   Author: Katherine Wyman
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Architects+Daughter);
+
+
+/* ------------------------------------------------
+    Large Scale Structure
+------------------------------------------------ */
+
+html, body {
+    height: 100%;
+    font-family: 'Open Sans', san serif;
+    font-size: 15px;
+}
+/* The main content */
+
+.main-content {
+    max-width: 800px;
+    padding-top: 40px;
+    margin: 0 0 40px 210px;
+}
+h1,h2,h3,h4,h5{font-family: 'Architects Daughter', san serif;}
+
+h1{font-size: 220%;}
+h2{font-size: 180%;}
+h3{font-size: 130%;}
+
+.bold{
+    font-weight: bold;
+}
+
+
+/* ------------------------------------------------
+    Home
+------------------------------------------------ */
+
+
+#profile_pic{
+    max-width: 300px;
+    margin-top: 20px;
+}
+
+.img_caption{
+    color:#999;
+    font-size: 80%;
+    text-align: right;
+}
+
+/* ------------------------------------------------
+    Resume
+------------------------------------------------ */
+#resume{font-family: 'Open Sans', san serif;}
+
+#resume td{
+    padding-right:10px;
+}
+
+#resume h2{
+    font-family: 'Architects Daughter', san-serif;
+    margin-bottom: 10px;
+}
+
+.section_header td{
+    /*padding: 0px;
+    margin:0px;*/
+    border-bottom: 1px solid #666;
+}
+
+/*.header_row td{
+    color: #04395E;
+    color: #1D4D6E;
+}*/
+
+.title{
+    font-family: 'Open Sans', san serif;
+    padding:10px 0px 5px 0px;
+    font-size: 130%;
+    color: #4D9078;
+    font-weight: bold;
+    text-align: left;
+}
+.location{
+    text-align: left;
+    font-size: 90%;
+    font-style: italic;
+    color: #666;
+}
+.dates{
+    text-align: right;
+    font-size: 90%;
+    font-style: italic;
+    color: #666;
+
+}
+
+#resume_sidebar{
+    background-color: #eee;
+}
+
+#resume_sidebar h2{font-size: 140%;}
+
+#resume_sidebar_content{
+    padding: 0 15px;
+}
+
+/* ------------------------------------------------
+    Portfolio
+------------------------------------------------ */
+
+.project_box{
+    margin-bottom: 40px;
+}
+
+.project_box p{
+    margin-top: 0px;
+    font-size: 90%;
+    font-style: italic;
+    color: #666;
+}
+
+p.project_pic{
+  float:right;
+  clear: both;
+  width:100%;
+  height: 125px;
+  overflow: hidden;
+}
+
+h2.title{
+    margin-bottom: 0px;
+    clear: both;
+}
+/*
+.portfolio{
+  list-style-type: none;
+}*/
+
+/* ------------------------------------------------
+    Contact
+------------------------------------------------ */
+#contact-page{
+}
+#contact_table{
+}
+
+#contact_table td{
+    vertical-align:middle;
+    text-align: right;
+    padding: 10px;
+}
+
+#contact_table input[type="submit"]{
+
+}
+
+#contact_table input[type="text"]{
+  float:left;
+    border: 0px;
+    background-color: #d6d6d6;
+    height: 50px;
+    width: 300px;
+    padding: 0px 10px;
+}
+
+#contact_table textarea{
+    border: 0px;
+    background-color: #d6d6d6;
+    height: 200px;
+    width: 500px;
+    padding: 0px 10px;
+}
+
+#contact_table label{
+    font-size: 110%;
+}
+
+
+/* General button style (reset) */
+.btn {
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 10px 40px;
+	display: inline-block;
+	margin: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.btn:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+/* Pseudo elements for icons */
+.btn:before{
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+}
+/* Button 1 */
+.btn-1 {
+	border: 3px solid #5FAD56;
+	color: #5FAD56;
+}
+
+
+/* Button 1f */
+.btn-1f {
+	overflow: hidden;
+}
+
+.btn-1f:after {
+	width: 101%;
+	height: 0;
+	top: 50%;
+	left: 50%;
+	background: #5FAD56;
+	opacity: 0;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.btn-1f:hover,
+.btn-1f:active {
+	color: #fff;
+}
+
+.btn-1f:hover:after {
+	height: 130%;
+	opacity: 1;
+}
+
+.btn-1f:active:after {
+	height: 130%;
+	opacity: 1;
+}
