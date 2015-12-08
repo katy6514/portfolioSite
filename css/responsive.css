@@ -3,8 +3,8 @@
    http://www.responsivegridsystem.com/
    ========================================================================== */
 
-/* ------------------------------------- 
-  General Setup  
+/* -------------------------------------
+  General Setup
 ------------------------------------- */
 
 /*  SECTIONS  */
@@ -37,37 +37,178 @@
 }
 
 /*  GRID OF THREE  */
-.span_3_of_3 {
-    width: 100%;
-}
-.span_2_of_3 {
-    width: 66.1%;
-}
-.span_1_of_3 {
-    width: 32.2%;
-}
+.span_3_of_3 { width: 100%; }
+.span_2_of_3 { width: 66.1%; }
+.span_1_of_3 { width: 32.2%; }
 
+/*  GRID OF FOUR  */
+.span_4_of_4 { width: 100%; }
+.span_3_of_4 { width: 74.6%; }
+.span_2_of_4 { width: 47.7%; }
+.span_1_of_4 { width: 23.8%; }
+
+/*.padded-content{
+    max-width:1024px;
+    margin:0px auto;
+    padding:0px 30px;
+}*/
 
 /* ==========================================================================
    Media Queries
    ========================================================================== */
 
 
-/* ------------------------------------- 
-  Middle Screens             
-------------------------------------- */
+@media only screen
+and (max-width : 1300px) {
+}
 
 
-@media only screen  and (max-width : 1025px) and (min-width : 601px) {}
+@media only screen
+and (max-width : 1030px) {
+}
+
+/* ------------------------------------- */
+/* ------------------------------------- */
+/*             Large Screens             */
+/* ------------------------------------- */
+/* ------------------------------------- */
 
 
-/* ------------------------------------- 
-  Small Screens             
-------------------------------------- */
-/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+@media only screen
+and (max-width : 900px)
+/*and (min-width : 601px)*/ {
+
+	.main-content{
+		max-width: none;
+    padding:0px;
+    width:95%;
+    margin:10px auto;
+	}
+
+	.sidebar-left {
+		width: auto;
+		height: auto;
+		position: inherit;
+		padding: 20px 0 0;
+	}
+
+	.sidebar-left .sidebar-links {
+		text-align: center;
+		margin: 20px auto 0;
+	}
+
+	.sidebar-left .sidebar-links a {
+		display: inline-block;
+		width: 100px;
+		margin: 0;
+		padding: 14px 0;
+		border-left: none;
+		border-top-width: 2px;
+		border-top-style: solid;
+	}
+
+  .sidebar-left .social-links-top {
+  	display: block;
+    width:100px;
+
+  }
+
+  /*.sidebar-left .social-links-top a i.fa {
+  	font-size: 25px;
+  	margin: 3px;
+  	color: #666;
+  }*/
+
+  .sidebar-left .social-links-bottom {
+  	display: none;
+  }
+
+  /*.sidebar-left .social-links-top a i.fa {
+  	font-size: 25px;
+  	margin: 3px;
+  	color: #666;
+  }*/
+
+}
 
 
-@media only screen and (max-width: 600px) and (min-width: 0px) {
-    .col { margin: 1% 0 1% 0%;}
-    .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+/* ------------------------------------- */
+/* ------------------------------------- */
+/*             Middle Screens            */
+/* ------------------------------------- */
+/* ------------------------------------- */
+
+
+@media only screen
+and (max-width : 655px)
+/*and (min-width : 501px)*/ {
+  .col {
+    margin: 1%;
+  }
+  .span_2_of_3 { width: 100%; }
+  .span_1_of_3 { width: 100%; }
+}
+
+
+
+
+
+/* ------------------------------------- */
+/* ------------------------------------- */
+/*              Small Screens            */
+/* ------------------------------------- */
+/* ------------------------------------- */
+
+
+@media only screen
+and (max-width: 450px){
+
+	.sidebar-left {
+		padding: 20px 0;
+	}
+
+	.sidebar-left .sidebar-links {
+		text-align: center;
+		margin: 20px auto 0;
+	}
+
+	.sidebar-left .sidebar-links a {
+		display: block;
+		max-width: 240px;
+		width: auto;
+		vertical-align: middle;
+		text-align: left;
+		margin: 0 auto 5px;
+		padding: 10px 25px;
+		border-top: none;
+		border-left-width: 2px;
+		border-left-style: solid;
+	}
+
+	.sidebar-left .sidebar-links a i.fa {
+		display: inline-block;
+		font-size: 20px;
+		width: 20px;
+		margin: 0 20px 0 0;
+		vertical-align: middle;
+	}
+
+}
+
+
+@media only screen
+and (max-width: 450px){
+}
+
+
+
+@media only screen
+and (max-width: 396px){
+}
+
+
+
+
+@media only screen
+and (max-width: 260px){
 }

@@ -10,18 +10,19 @@
 /* ------------------------------------------------
     Large Scale Structure
 ------------------------------------------------ */
-
 html, body {
-    height: 100%;
-    font-family: 'Open Sans', san serif;
-    font-size: 15px;
+  height: 100%;
+  font-family: 'Open Sans', san serif;
+  font-size: 15px;
 }
-/* The main content */
 
 .main-content {
-    max-width: 800px;
-    padding-top: 40px;
-    margin: 0 0 40px 210px;
+  /*max-width: 800px;*/
+  width:70%;
+  padding-top: 40px;
+  margin: 0 0 40px 210px;
+  /*margin: 0 auto;
+  margin-left: 210px;*/
 }
 h1,h2,h3,h4,h5{font-family: 'Architects Daughter', san serif;}
 
@@ -30,109 +31,114 @@ h2{font-size: 180%;}
 h3{font-size: 130%;}
 
 .bold{
-    font-weight: bold;
+  font-weight: bold;
 }
 
 
 /* ------------------------------------------------
     Home
 ------------------------------------------------ */
-
-
-#profile_pic{
-    max-width: 300px;
-    margin-top: 20px;
+#profile_pic img{
+  width: 100%;
+  max-width: 300px;
 }
 
 .img_caption{
-    color:#999;
-    font-size: 80%;
-    text-align: right;
+  color:#999;
+  font-size: 80%;
+  text-align: right;
 }
 
 /* ------------------------------------------------
     Resume
 ------------------------------------------------ */
 #resume{font-family: 'Open Sans', san serif;}
-
-#resume td{
-    padding-right:10px;
-}
+#resume td{padding-right:10px;}
 
 #resume h2{
-    font-family: 'Architects Daughter', san-serif;
-    margin-bottom: 10px;
+  font-family: 'Architects Daughter', san-serif;
+  margin-bottom: 10px;
 }
 
-.section_header td{
-    /*padding: 0px;
-    margin:0px;*/
-    border-bottom: 1px solid #666;
+#resume h3{ /*.title*/
+  font-family: 'Open Sans', san serif;
+  margin:0;
+  padding:10px 0px 5px 0px;
+  color: #4D9078;
+  font-weight: bold;
+  text-align: left;
 }
-
-/*.header_row td{
-    color: #04395E;
-    color: #1D4D6E;
-}*/
-
-.title{
-    font-family: 'Open Sans', san serif;
-    padding:10px 0px 5px 0px;
-    font-size: 130%;
-    color: #4D9078;
-    font-weight: bold;
-    text-align: left;
+#resume .section_header td{border-bottom: 1px solid #666;}
+#resume .location{
+  text-align: left;
+  font-size: 90%;
+  font-style: italic;
+  color: #666;
 }
-.location{
-    text-align: left;
-    font-size: 90%;
-    font-style: italic;
-    color: #666;
-}
-.dates{
-    text-align: right;
-    font-size: 90%;
-    font-style: italic;
-    color: #666;
-
+#resume .dates{
+  text-align: right;
+  font-size: 90%;
+  font-style: italic;
+  color: #666;
 }
 
 #resume_sidebar{
-    background-color: #eee;
+  background-color: #eee;
+  max-width: 98%;
 }
-
-#resume_sidebar h2{font-size: 140%;}
-
-#resume_sidebar_content{
-    padding: 0 15px;
+#resume_sidebar h3{margin: 0px;}
+#resume_sidebar_content{padding:20px;}
+#resume_sidebar_content p{
+  padding:0px;
+  margin:0px;
+  padding-left: 10px;
+  padding-bottom:10px;
 }
 
 /* ------------------------------------------------
     Portfolio
 ------------------------------------------------ */
-
 .project_box{
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
-.project_box p{
-    margin-top: 0px;
-    font-size: 90%;
-    font-style: italic;
-    color: #666;
+h2.project_title{
+  margin-bottom: 0px;
+  clear: both;
+  color:#4D9078;
+}
+
+.project_bio{
+  margin: 0px;
+  font-size: 100%;
+  font-weight: normal;
+  font-style: italic;
+  color: #666;
 }
 
 p.project_pic{
   float:right;
+  padding:0;
+  margin: 0;
   clear: both;
   width:100%;
   height: 125px;
   overflow: hidden;
+  align:center;
+  /*border:1px solid #eee;*/
 }
 
-h2.title{
-    margin-bottom: 0px;
-    clear: both;
+.project_pic img{
+  width:100%;
+  margin: 0 auto;
+}
+
+.project_skills{
+  float: right;
+  margin-top: 0px;
+  font-size: 90%;
+  font-weight: normal;
+  color: #666;
 }
 /*
 .portfolio{
@@ -142,42 +148,35 @@ h2.title{
 /* ------------------------------------------------
     Contact
 ------------------------------------------------ */
-#contact-page{
-}
-#contact_table{
-}
+#contact-page{}
+#contact_table{}
 
 #contact_table td{
-    vertical-align:middle;
-    text-align: right;
-    padding: 10px;
+  vertical-align:middle;
+  text-align: right;
+  padding: 10px;
 }
-
-#contact_table input[type="submit"]{
-
-}
-
+#contact_table input[type="submit"]{}
 #contact_table input[type="text"]{
   float:left;
-    border: 0px;
-    background-color: #d6d6d6;
-    height: 50px;
-    width: 300px;
-    padding: 0px 10px;
+  border: 0px;
+  background-color: #d6d6d6;
+  height: 50px;
+  width: 500px;
+  padding: 0px 10px;
 }
 
 #contact_table textarea{
-    border: 0px;
-    background-color: #d6d6d6;
-    height: 200px;
-    width: 500px;
-    padding: 0px 10px;
+  border: 0px;
+  background-color: #d6d6d6;
+  height: 200px;
+  width: 500px;
+  padding: 0px 10px;
 }
 
 #contact_table label{
-    font-size: 110%;
+  font-size: 110%;
 }
-
 
 /* General button style (reset) */
 .btn {
@@ -220,12 +219,12 @@ h2.title{
 	position: relative;
 	-webkit-font-smoothing: antialiased;
 }
+
 /* Button 1 */
 .btn-1 {
 	border: 3px solid #5FAD56;
 	color: #5FAD56;
 }
-
 
 /* Button 1f */
 .btn-1f {
@@ -258,4 +257,180 @@ h2.title{
 .btn-1f:active:after {
 	height: 130%;
 	opacity: 1;
+}
+
+/* ------------------------------------------------
+    Sidebar Styles
+------------------------------------------------ */
+.sidebar-left {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #292c2f;
+	width: 120px;
+	height: 100%;
+	padding: 20px 0;
+}
+
+.sidebar-left a.company-logo {
+	display: block;
+	text-decoration: none;
+	font-family: "Architects Daughter", cursive;
+	width: 76px;
+	height: 76px;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	color:  #ffffff;
+	font-size: 28px;
+	font-weight: normal;
+	line-height: 2.6;
+	border-radius: 50%;
+	background-color:  #181a1b;
+}
+
+.sidebar-left .sidebar-links {
+	margin: 20px auto;
+}
+
+.sidebar-left .sidebar-links a {
+	display: block;
+	text-decoration: none;
+	margin: 0 auto 5px auto;
+	padding: 20px 0;
+	background-color: #35393e;
+	text-align: center;
+	color:  #b3bcc5;
+	font-size: 12px;
+	font-weight: bold;
+	border-left-width: 2px;
+	border-left-style: solid;
+}
+
+.sidebar-left .sidebar-links a i.fa {
+	display: block;
+	font-size: 35px;
+	margin-bottom: 5px;
+}
+
+.sidebar-left .sidebar-links a.selected{
+	background-color: #ffffff;
+	color:  #7c8085;
+	font-size: 12px;
+	font-weight: bold;
+	cursor: default;
+}
+
+.sidebar-left .social-links-top {
+  display: none;
+	width: 50%;
+	margin: 10px auto;
+}
+
+.sidebar-left .social-links-top a i.fa {
+	font-size: 25px;
+	margin: 3px;
+	color: #666;
+}
+
+.sidebar-left .social-links-bottom {
+	width: 25%;
+	margin: 10px auto;
+}
+
+.sidebar-left .social-links-bottom a i.fa {
+    float: left;
+    clear:both;
+	font-size: 25px;
+	margin: 3px;
+	color: #666;
+}
+
+/* Link Colors */
+.sidebar-left .sidebar-links a.link-blue { border-color: #B4436C; }
+.sidebar-left .sidebar-links a.link-blue i.fa { color: #B4436C; }
+.sidebar-left .sidebar-links a.link-red {	border-color: #F78154; }
+.sidebar-left .sidebar-links a.link-red i.fa { color: #F78154; }
+.sidebar-left .sidebar-links a.link-yellow { border-color: #F2C14E; }
+.sidebar-left .sidebar-links a.link-yellow i.fa { color: #F2C14E; }
+.sidebar-left .sidebar-links a.link-green { border-color: #5FAD56; }
+.sidebar-left .sidebar-links a.link-green i.fa { color: #5FAD56; }
+
+/* Making the sidebar responsive */
+
+/*@media (max-width: 900px) {
+
+	.main-content{
+		max-width: none;
+		padding: 40px 20px;
+		margin: 0 0 40px;
+	}
+
+	.sidebar-left {
+		width: auto;
+		height: auto;
+		position: inherit;
+		padding: 20px 0 0;
+	}
+
+	.sidebar-left .sidebar-links {
+		text-align: center;
+		margin: 20px auto 0;
+	}
+
+	.sidebar-left .sidebar-links a {
+		display: inline-block;
+		width: 100px;
+		margin: 0;
+		padding: 14px 0;
+		border-left: none;
+		border-top-width: 2px;
+		border-top-style: solid;
+	}
+
+}*/
+
+/* Mobile phone layout */
+
+/*@media (max-width: 450px) {
+
+	.sidebar-left {
+		padding: 20px 0;
+	}
+
+	.sidebar-left .sidebar-links {
+		text-align: center;
+		margin: 20px auto 0;
+	}
+
+	.sidebar-left .sidebar-links a {
+		display: block;
+		max-width: 240px;
+		width: auto;
+		vertical-align: middle;
+		text-align: left;
+		margin: 0 auto 5px;
+		padding: 10px 25px;
+		border-top: none;
+		border-left-width: 2px;
+		border-left-style: solid;
+	}
+
+	.sidebar-left .sidebar-links a i.fa {
+		display: inline-block;
+		font-size: 20px;
+		width: 20px;
+		margin: 0 20px 0 0;
+		vertical-align: middle;
+	}
+
+}*/
+
+/*	Removing margins and paddings from the body, so that
+    the sidebar takes the full height of the page */
+
+body {
+	margin: 0;
+	padding: 0;
 }
