@@ -49,6 +49,10 @@ h3{font-size: 130%;}
   text-align: right;
 }
 
+.summary{
+    background-color: #eee;
+}
+
 /* ------------------------------------------------
     Resume
 ------------------------------------------------ */
@@ -118,11 +122,12 @@ h2.project_title{
 
 p.project_pic{
   float:right;
-  padding:0;
+  padding:3px;
+  border: 1px solid #999;
   margin: 0;
   clear: both;
   width:100%;
-  height: 125px;
+  /*height: 130px;*/
   overflow: hidden;
   align:center;
   /*border:1px solid #eee;*/
