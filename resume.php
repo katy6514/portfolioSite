@@ -60,7 +60,7 @@
                     <tr class="section_header">
                         <td colspan="2"><h2>Employment</h2></td>
                     </tr>
-
+<!--
                     <tr class="header_row">
                         <td colspan="2"><h3>Instructor</h3></td>
                     </tr>
@@ -71,8 +71,6 @@
                     <tr>
                         <td colspan="2">
                             <ul>
-                                <!-- One line for responsibilities, two for accomplishments -->
-                                <!-- Responsibilities -->
 
                                 <li>Teaching elements of web development to help women excel in the field of web development.</li>
 
@@ -80,12 +78,10 @@
 
                                 <li>Offered suggestions on best practices and coding standards.</li>
 
-
-
                             </ul>
                         </td>
                     </tr>
-
+-->
                     <tr class="header_row">
                         <td colspan="2"><h3>Astrophysicist/Tech Support</h3></td>
                     </tr>
@@ -109,7 +105,7 @@
                                 <li>Developed online registration process for Chandra X-ray Center-sponsored conferences, and generated private registration statistic pages for admin teams.</li>
 
                                 <!-- Accomplishment -->
-                                <li>Re-designed Chandra X-ray Center meeting websites with responsive design techniques. Updated static HTML tables of astronomical targets observed by Chandra with a modern, interactive JQuery plug-in, added sorting/searching/saving capabilities.</li>
+                                <li>Re-designed Chandra X-ray Center meeting websites with responsive design techniques. Updated static pages of astronomical targets observed by Chandra with a modern, interactivness, added sorting/searching/saving capabilities.</li>
                             </ul>
                         </td>
                     </tr>
@@ -119,7 +115,7 @@
                     </tr>
                     <tr>
                         <td class="location">Harvard University, Cambridge, MA</td>
-                        <td class="dates">2014</td>
+                        <td class="dates">2014-2015</td>
                     </tr>
                     <tr>
                         <td colspan="2">
@@ -143,7 +139,7 @@
                             <ul>
                                 <li>Led students in outdoor astronomy labs. Introduced students to the concepts of telescope design, instructed students on how to use astronomical equipment for public observing and the aquisition of data for astronomical research.</li>
                                 <li>Held office hours for review of lecture material or help with homework assignments.</li>
-                                <li>Ran labs where students repeated some basic yet relevatory scienticif experiments to teach them about the cosmos.</li>
+                                <li>Ran labs where students repeated some basic historical scientific experiments to teach them about the cosmos.</li>
                             </ul>
                         </td>
                     </tr>
@@ -199,24 +195,24 @@
             <div id="resume_sidebar" class="col span_1_of_3">
                 <div id="resume_sidebar_content">
                     <!-- TECHNICAL SKILLS-->
-                    <h3>Programming Languages</h3>
+                    <h4>Programming Languages</h4>
                     <p>HTML, CSS, Javascript, PHP, Python</p>
 
-                    <h3>Operating Systems</h3>
+                    <h4>Operating Systems</h4>
                     <p>Linux, MacOS</p>
 
-                    <h3>Frameworks</h3>
+                    <h4>Frameworks</h4>
                     <p>Laravel, Wordpress</p>
 
-                    <h3>Misc Technical Skills</h3>
+                    <h4>Misc Technical Skills</h4>
                     <p>GIMP, Microsoft Office Suite, MySQL, Git, Google Docs Suite</p>
 
                     <!-- AWARDS -->
-                    <h3>Awards</h3>
+                    <h4>Awards</h4>
                     <p><span class="bold">Chambliss Award</span>: American Astronomical Society award for excellence in graduate research. Received for work at Wesleyan on thesis. </p>
 
                     <!-- PUBLICATIONS -->
-                    <h3>Publications</h3>
+                    <h4>Publications</h4>
                     <p><span class="bold">K. Wyman</span>, S. Redfield, <a href="http://arxiv.org/pdf/1307.2899.pdf" target="_blank">Probing Our Heliospheric History I</a>: High-Resolution Observations of Na I and Ca II Along the Solar Historical Trajectory.</p>
 
                 </div> <!-- Close resume_sidebar_content -->

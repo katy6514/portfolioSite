@@ -56,8 +56,8 @@
     <main id="home-page" class="main-content">
         <div class="section group">
             <div class="col span_2_of_3">
-                <h1>Howdy!</h1>
-                <p>I'm Katy, a full-stack web developer.</p>
+                <h1>Katherine Wyman</h1>
+                <h2>Full-stack Web Developer</h2>
 
                 <p>In a previous life I was an astronomer working for the <a href="http://chandra.si.edu/" target="_blank">Chandra Space Telescope</a>. Now I find myself enjoying making easy to use and nice-looking sites, regardless of viewport size.</p>
 
@@ -72,10 +72,19 @@
             </div>
         </div>
         <div class="section group">
-            <div class="col span_3_of_3 summary">
-                <h3>At a glance...</h3>
-
-
+            <div class="col span_3_of_3 glance">
+                <h3>Experience with:</h3>
+                <ul>
+                    <li>Object Oriented PHP</li>
+                    <li>Laravel</li>
+                    <li>Javascript &amp; JQuery</li>
+                    <li>Python</li>
+                    <li>MySQL</li>
+                    <li>HTML5 &amp; CSS3</li>
+                    <li>Responsive Design</li>
+                    <li>Bootstrap</li>
+                    <li>D3</li>
+                </ul>
             </div>
         </div>
     </main>
