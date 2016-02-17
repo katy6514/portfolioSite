@@ -118,7 +118,7 @@
         </div>
       </div> <!-- Close span_3_of_3 -->
     </div> <!-- Close section group -->
-
+<?php echo $time?>
   </main>
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

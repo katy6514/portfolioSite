@@ -82,7 +82,7 @@
                     <li>MySQL</li>
                     <li>HTML5 &amp; CSS3</li>
                     <li>Responsive Design</li>
-                    <li>Bootstrap</li>
+                    <li>Wordpress</li>
                     <li>D3</li>
                 </ul>
             </div>
