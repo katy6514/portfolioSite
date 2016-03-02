@@ -30,99 +30,161 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 </head>
 <body>
-  <aside class="sidebar-left">
-    <a class="company-logo" href="#">KIW</a>
-    <div class="social-links-top">
-      <a href="#"><i class="fa fa-linkedin-square"></i></a>
-      <a href="#"><i class="fa fa-github-square"></i></a>
-      <a href="#"><i class="fa fa-twitter-square"></i></a>
-    </div>
-    <div class="sidebar-links">
-      <a class="link-blue " href="./index.php"><i class="fa fa-home"></i>Home</a>
-      <a class="link-red" href="./resume.php"><i class="fa fa-file-text-o"></i>Resume</a>
-      <a class="link-yellow selected" href="./portfolio.php"><i class="fa fa-folder-o"></i>Projects</a>
-      <a class="link-green" href="./contact.php"><i class="fa fa-envelope-o"></i>Contact</a>
-    </div>
-    <div class="social-links-bottom">
-      <a href="#"><i class="fa fa-linkedin-square"></i></a>
-      <a href="#"><i class="fa fa-github-square"></i></a>
-      <a href="#"><i class="fa fa-twitter-square"></i></a>
-    </div>
-  </aside>
-
-  <main id="portfolio-page" class="main-content">
-    <div class="section group">
-      <div class="col span_3_of_3">
-
-        <div class="project_box">
-          <h2 class="project_title">X-ray Surveyor Website</h2>
-          <p class="project_bio">Website for a science workshop held in DC, Oct 2015.</p>
-          <p class="project_pic"><img src="img/xraySurveyor.jpg" alt="" /></p>
-          <p class="project_skills">JQuery, JS, HTML, CSS, Responsive Design</p>
+    <aside class="sidebar-left">
+        <a class="company-logo" href="#">KIW</a>
+        <div class="social-links-top">
+            <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
+            <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
         </div>
-
-        <div class="project_box">
-          <h2 class="project_title">The Crystal Beth</h2>
-          <p class="project_bio">Crystal Beth is a comedian in NYC.</p>
-          <p class="project_pic"><img src="img/catpic.jpg" alt="" /></p>
-          <p class="project_skills">Wordpress, Responsive Design</p>
+        <div class="sidebar-links">
+            <a class="link-blue " href="./index.php"><i class="fa fa-home"></i>Home</a>
+            <a class="link-red" href="./resume.php"><i class="fa fa-file-text-o"></i>Resume</a>
+            <a class="link-yellow selected" href="./portfolio.php"><i class="fa fa-folder-o"></i>Projects</a>
+            <a class="link-green" href="./contact.php"><i class="fa fa-envelope-o"></i>Contact</a>
         </div>
-
-        <div class="project_box">
-          <h2 class="project_title">HRXS2015</h2>
-          <p class="project_bio">Website for a conference</p>
-          <p class="project_pic"><img src="img/hrxs.jpg" alt="" /></p>
-          <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
+        <div class="social-links-bottom">
+            <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
+            <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
         </div>
+    </aside>
 
-        <div class="project_box">
-          <h2 class="project_title">Pack Weight</h2>
-          <p class="project_bio">A simple Javascript pack weight calculator</p>
-          <p class="project_pic"><img src="img/packweight.jpg" alt="" /></p>
-          <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
-        </div>
+    <main id="portfolio-page" class="main-content">
+        <div class="section group">
+            <div class="col span_3_of_3">
 
-        <div class="project_box">
-          <h2 class="project_title">Developer's Tool Box</h2>
-          <p class="project_bio">My most google-ed for tools while building websites.</p>
-      		<p class="project_pic"><img src="img/pwGenerator.jpg" alt="" /></p>
-          <p class="project_skills">Laravel, PHP, HTML, CSS, JS</p>
-        </div>
+                <div class="project_box">
+                    <a href="http://cxc.harvard.edu/cdo/xray_surveyor/">
+                        <h2 class="project_title" target="_blank">X-ray Surveyor Website</h2>
+                    </a>
+                    <p class="project_bio">Website for a science workshop held in DC, Oct 2015.</p>
+                    <p class="project_pic">
+                        <a href="http://cxc.harvard.edu/cdo/xray_surveyor/" target="_blank">
+                            <img src="img/xraySurveyor.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">JQuery, JS, HTML, CSS, Responsive Design</p>
+                    <br class="clear" />
+                </div>
 
-        <div class="project_box">
-          <h2 class="project_title">Chandra Data Tables</h2>
-          <p class="project_bio">A better way to list all of Chandra's observed targets.</p>
-          <p class="project_pic"><img src="img/datatables.jpg" alt="" /></p>
-          <p class="project_skills">JQuery</p>
-        </div>
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">The Crystal Beth</h2>
+                    </a>
+                    <p class="project_bio">Crystal Beth is a comedienne in NYC.</p>
+                    <p class="project_pic">
+                        <a href="http://thecrystalbeth.com/">
+                            <img src="img/crysPic.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">Wordpress, Responsive Design</p>
+                    <br class="clear" />
+                </div>
 
-        <div class="project_box">
-          <h2 class="project_title">CARE</h2>
-          <p class="project_bio">A Catabase. For CARE Wildcat Rescue.</p>
-          <p class="project_pic"><img src="img/catpic.jpg" alt="" /></p>
-          <p class="project_skills">Laravel</p>
-        </div>
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">HRXS 2015</h2>
+                    </a>
+                    <p class="project_bio">Website for a conference on High-Resolution X-ray Spectroscopy</p>
+                    <p class="project_pic">
+                        <a href="http://cxc.harvard.edu/cdo/hrxs2015/">
+                            <img src="img/hrxs.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
+                    <br class="clear" />
+                </div>
 
-        <div class="project_box">
-          <h2 class="project_title">Review Helper</h2>
-          <p class="project_bio">A tool for visualizing time allocations for the Chandra Space Telescope.</p>
-          <p class="project_pic"><img src="img/catpic.jpg" alt="" /></p>
-          <p class="project_skills">D3, Javascript, PHP, Databases</p>
-        </div>
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">Pack Weight</h2>
+                    </a>
+                    <p class="project_bio">A simple Javascript pack weight calculator</p>
+                    <p class="project_pic">
+                        <a href="#">
+                            <img src="img/packweight.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
+                    <br class="clear" />
+                </div>
 
-        <div class="project_box">
-          <h2 class="project_title">Chandra Bubbles</h2>
-          <p class="project_bio">A visualization of the first 15 years of proposals approved for the Chandra Space Telescope</p>
-          <p class="project_pic"><img src="img/bubbles.jpg" alt="" /></p>
-          <p class="project_skills">D3, Javascript</p>
-        </div>
-      </div> <!-- Close span_3_of_3 -->
-    </div> <!-- Close section group -->
-<?php echo $time?>
-  </main>
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">Developer's Tool Box</h2>
+                    </a>
+                    <p class="project_bio">My most google-ed for tools while building websites.</p>
+                    <p class="project_pic">
+                        <a href="#">
+                            <img src="img/pwGenerator.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">Laravel, PHP, HTML, CSS, JS</p>
+                    <br class="clear" />
+                </div>
 
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">Chandra Data Tables</h2>
+                    </a>
+                    <p class="project_bio">A better way to list all of Chandra's observed targets.</p>
+                    <p class="project_pic">
+                        <a href="http://cxc.harvard.edu/target_lists/large_projects/BPs.html">
+                            <img src="img/datatables.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">JQuery</p>
+                    <br class="clear" />
+                </div>
+
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">CARE</h2>
+                    </a>
+                    <p class="project_bio">A Catabase. For CARE Wildcat Rescue.</p>
+                    <p class="project_pic">
+                        <a href="#">
+                            <img src="img/catpic.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">Laravel</p>
+                    <br class="clear" />
+                </div>
+
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">Review Helper</h2>
+                    </a>
+                    <p class="project_bio">A tool for visualizing time allocations for the Chandra Space Telescope.</p>
+                    <p class="project_pic">
+                        <a href="#">
+                            <img src="img/reviewHelper.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">D3, Javascript, PHP, Databases</p>
+                    <br class="clear" />
+                </div>
+
+                <div class="project_box">
+                    <a href="#">
+                        <h2 class="project_title">Chandra Bubbles</h2>
+                    </a>
+                    <p class="project_bio">A visualization of the first 15 years of proposals approved for the Chandra Space Telescope</p>
+                    <p class="project_pic">
+                        <a href="#">
+                            <img src="img/bubbles.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">D3, Javascript</p>
+                    <br class="clear" />
+                </div>
+            </div> <!-- Close span_3_of_3 -->
+        </div> <!-- Close section group -->
+    </main>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>

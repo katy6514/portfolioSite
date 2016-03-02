@@ -33,9 +33,9 @@
     <aside class="sidebar-left">
         <a class="company-logo" href="#">KIW</a>
         <div class="social-links-top">
-            <a href="#"><i class="fa fa-linkedin-square"></i></a>
-            <a href="#"><i class="fa fa-github-square"></i></a>
-            <a href="#"><i class="fa fa-twitter-square"></i></a>
+            <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
+            <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
         </div>
         <div class="sidebar-links">
             <a class="link-blue " href="./index.php"><i class="fa fa-home"></i>Home</a>
@@ -44,9 +44,9 @@
             <a class="link-green" href="./contact.php"><i class="fa fa-envelope-o"></i>Contact</a>
         </div>
         <div class="social-links-bottom">
-            <a href="#"><i class="fa fa-linkedin-square"></i></a>
-            <a href="#"><i class="fa fa-github-square"></i></a>
-            <a href="#"><i class="fa fa-twitter-square"></i></a>
+            <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
+            <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
         </div>
     </aside>
 
@@ -60,28 +60,7 @@
                     <tr class="section_header">
                         <td colspan="2"><h2>Employment</h2></td>
                     </tr>
-<!--
-                    <tr class="header_row">
-                        <td colspan="2"><h3>Instructor</h3></td>
-                    </tr>
-                    <tr>
-                        <td class="location">Women's Coding Collective</td>
-                        <td class="dates">2015-Present</td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <ul>
 
-                                <li>Teaching elements of web development to help women excel in the field of web development.</li>
-
-                                <li>Answered questions and provided troubleshooting guidance to students through an online forum.</li>
-
-                                <li>Offered suggestions on best practices and coding standards.</li>
-
-                            </ul>
-                        </td>
-                    </tr>
--->
                     <tr class="header_row">
                         <td colspan="2"><h3>Astrophysicist/Tech Support</h3></td>
                     </tr>
@@ -95,17 +74,18 @@
                             <ul>
                                 <!-- One line for responsibilities, two for accomplishments -->
                                 <!-- Responsibilities -->
-                                <!-- <li>Development and maintenance of websites for CXC sponsored conferences, meetings and symposia. Provided technical in-person support during events.</li> -->
 
-                                <li>Maintained database, provided in-house software writing, assisted in testing/proof-reading of web-based tools, webpages, and other documents/deliverables. Provide customer support to observers through help desk system.</li>
+                                <li>Maintained databases, provided in-house software writing, assisted in testing/proof-reading of web-based tools, webpages, and other documents/deliverables. Provide customer support to observers through help desk system.</li>
 
-                                <!-- <li>Represented Chandra X-ray Center at astronomical meetings. Developed engaging activities to promote education and interest in astronomy for children.</li> -->
 
                                 <!-- Accomplishment -->
-                                <li>Developed online registration process for Chandra X-ray Center-sponsored conferences, and generated private registration statistic pages for admin teams.</li>
+                                <li>Developed online registration process for Chandra X-ray Center-sponsored conferences, and generated private registration statistic pages for administration teams.</li> <!--Development and maintenance of websites for CXC sponsored conferences, meetings and symposia. Provided in-person technical support during events.</li>-->
 
                                 <!-- Accomplishment -->
                                 <li>Re-designed Chandra X-ray Center meeting websites with responsive design techniques. Updated static pages of astronomical targets observed by Chandra with a modern, interactivness, added sorting/searching/saving capabilities.</li>
+
+                                <!-- <li>Represented Chandra X-ray Center at astronomical meetings. Developed engaging activities to promote education and interest in astronomy for children.</li> -->
+
                             </ul>
                         </td>
                     </tr>
@@ -120,9 +100,9 @@
                     <tr>
                         <td colspan="2">
                             <ul>
-                                <li>Led weekly section reviewing course material and help students troubleshoot class work.</li>
-                                <li>Graded ~25 students' projects, provided feedback and suggested improvements on code, interface, usability and errors for web applications written in PHP and Laravel.</li>
-                                <li>Provided guidance and suggested troubleshooting techniques through an online forum on server configuration, the basics of version control with Git, program design, code syntax and programming logic, and best practices.</li>
+                                <li>Held weekly review sessions of course material and classwork troubleshooting for students. Provided additional guidance through an online forum and chat service.</li>
+                                <li>Graded student submissions, provided feedback and suggested improvements on code, interface, usability and errors for web applications written in PHP and Laravel.</li>
+                                <li>Course topics included: basic server configuration, simple version control with Git, databases and CRUD operations, user authentication, and modern web development best practices.</li>
                             </ul>
                         </td>
                     </tr>
@@ -139,7 +119,7 @@
                             <ul>
                                 <li>Led students in outdoor astronomy labs. Introduced students to the concepts of telescope design, instructed students on how to use astronomical equipment for public observing and the aquisition of data for astronomical research.</li>
                                 <li>Held office hours for review of lecture material or help with homework assignments.</li>
-                                <li>Ran labs where students repeated some basic historical scientific experiments to teach them about the cosmos.</li>
+                                <li>Ran labs for undergraduate astronomy majors designed to teach them about the solar system, historical astronomical discoveries, the nature of the EM spectrum, astronomical observing, the expansion of the universe and the cosmos at large.</li>
                             </ul>
                         </td>
                     </tr>
@@ -204,8 +184,8 @@
                     <h4>Frameworks</h4>
                     <p>Laravel, Wordpress</p>
 
-                    <h4>Misc Technical Skills</h4>
-                    <p>GIMP, Microsoft Office Suite, MySQL, Git, Google Docs Suite</p>
+                    <h4>Technical Skills</h4>
+                    <p>GIMP, MySQL, Git</p>
 
                     <!-- AWARDS -->
                     <h4>Awards</h4>

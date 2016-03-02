@@ -36,9 +36,9 @@
     <aside class="sidebar-left">
     <a class="company-logo" href="#">KIW</a>
     <div class="social-links-top">
-    <a href="#"><i class="fa fa-linkedin-square"></i></a>
-    <a href="#"><i class="fa fa-github-square"></i></a>
-    <a href="#"><i class="fa fa-twitter-square"></i></a>
+    <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+    <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
+    <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
     </div>
     <div class="sidebar-links">
     <a class="link-blue selected" href="./index.php"><i class="fa fa-home"></i>Home</a>
@@ -47,9 +47,9 @@
     <a class="link-green" href="./contact.php"><i class="fa fa-envelope-o"></i>Contact</a>
     </div>
     <div class="social-links-bottom">
-    <a href="#"><i class="fa fa-linkedin-square"></i></a>
-    <a href="#"><i class="fa fa-github-square"></i></a>
-    <a href="#"><i class="fa fa-twitter-square"></i></a>
+    <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+    <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
+    <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
     </div>
     </aside>
 
