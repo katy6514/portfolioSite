@@ -4,7 +4,7 @@
    Project: KIW homepage
    Author: Katherine Wyman
    ========================================================================== */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu|Architects+Daughter);
 
 
 /* ------------------------------------------------
@@ -486,4 +486,29 @@ p.project_pic{
 body {
 	margin: 0;
 	padding: 0;
+}
+
+
+#rhWrapper{
+    width:80%;
+    margin: 0 auto 50px auto;
+}
+
+#rhWrapper p{
+    font-family: "Open Sans", sans-serif;
+}
+
+#rhWrapper h1{font-size: 60px;margin-bottom: 0;}
+#rhWrapper h3{font-size: 30px;
+    padding-top: 0;
+    margin-top: 0;
+    color: #666;}
+#rhWrapper h4{font-size: 20px;margin-bottom: 0;}
+
+
+#rhWrapper h1,#rhWrapper h2,#rhWrapper h3, #rhWrapper h4 {font-family: "Ubuntu", sans-serif;}
+
+#rhWrapper #player{
+    width:70%;
+    margin: 0 auto;
 }
