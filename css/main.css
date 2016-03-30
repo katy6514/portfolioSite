@@ -10,19 +10,26 @@
 /* ------------------------------------------------
     Large Scale Structure
 ------------------------------------------------ */
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 html, body {
-  height: 100%;
-  font-family: 'Open Sans', san serif;
-  font-size: 15px;
+    height: 100%;
+    font-family: 'Open Sans', san serif;
+    font-size: 15px;
 }
 
 .main-content {
-  max-width: 900px;
-  width:70%;
-  padding-top: 40px;
-  margin: 0 0 20px 210px;
-  /*margin: 0 auto;
-  margin-left: 210px;*/
+    max-width: 900px;
+    width:70%;
+    padding-top: 40px;
+    margin: 0 0 20px 210px;
+    /*margin: 0 auto;
+    margin-left: 210px;*/
 }
 h1,h2,h3,h4,h5{font-family: 'Architects Daughter', san serif;}
 
@@ -33,7 +40,7 @@ h4{font-size: 120%;}
 
 
 .bold{
-  font-weight: bold;
+    font-weight: bold;
 }
 
 
@@ -42,8 +49,8 @@ h4{font-size: 120%;}
 ------------------------------------------------ */
 #profile_pic img{
     border-radius: 50%;
-  width: 100%;
-  max-width: 300px;
+    width: 100%;
+    max-width: 300px;
 }
 
 #home-page h1{
@@ -51,26 +58,26 @@ h4{font-size: 120%;}
     margin-bottom: 0;
 }
 #home-page h2{
-  margin:0;
-  padding:0;
-  color: #4D9078;
-  font-weight: bold;
-  text-align: left;
+    margin:0;
+    padding:0;
+    color: #4D9078;
+    font-weight: bold;
+    text-align: left;
 }
 #home-page h3{
-  color: #4D9078;
-  padding-bottom: 0px;
-  margin-bottom: 0;
-  font-weight: bold;
-  text-align: left;
-  font-family: 'Open Sans', san serif;
+    color: #4D9078;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Open Sans', san serif;
 }
 
 
 .img_caption{
-  color:#999;
-  font-size: 80%;
-  text-align: right;
+    color:#999;
+    font-size: 80%;
+    text-align: right;
 }
 
 .glance{
@@ -94,48 +101,48 @@ h4{font-size: 120%;}
 #resume td{padding-right:10px;}
 
 #resume h2{
-  font-family: 'Architects Daughter', san-serif;
-  margin-bottom: 10px;
+    font-family: 'Architects Daughter', san-serif;
+    margin-bottom: 10px;
 }
 
 #resume h3{ /*.title*/
-  font-family: 'Open Sans', san serif;
-  margin:0;
-  padding:10px 0px 5px 0px;
-  color: #4D9078;
-  font-weight: bold;
-  text-align: left;
+    font-family: 'Open Sans', san serif;
+    margin:0;
+    padding:10px 0px 5px 0px;
+    color: #4D9078;
+    font-weight: bold;
+    text-align: left;
 }
 #resume .section_header td{border-bottom: 1px solid #666;}
 #resume .location{
-  text-align: left;
-  font-size: 90%;
-  font-style: italic;
-  color: #666;
+    text-align: left;
+    font-size: 90%;
+    font-style: italic;
+    color: #666;
 }
 #resume .dates{
-  text-align: right;
-  font-size: 90%;
-  font-style: italic;
-  color: #666;
+    text-align: right;
+    font-size: 90%;
+    font-style: italic;
+    color: #666;
 }
 
 #resume_sidebar{
-  background-color: #eee;
-  max-width: 98%;
+    background-color: #eee;
+    max-width: 98%;
 }
 #resume_sidebar h4{
 margin: 0px;
     margin-top: 5px;
-  font-family: 'Open Sans', san serif;
-  color: #4D9078;
+    font-family: 'Open Sans', san serif;
+    color: #4D9078;
 }
 #resume_sidebar_content{padding:20px;}
 #resume_sidebar_content p{
-  padding:0px;
-  margin:0px;
-  padding-left: 10px;
-  padding-bottom:10px;
+    padding:0px;
+    margin:0px;
+    padding-left: 10px;
+    padding-bottom:10px;
 }
 
 /* ------------------------------------------------
@@ -152,25 +159,25 @@ margin: 0px;
 .clear { clear: both; }
 
 h2.project_title{
-  margin:0px;
-  clear: both;
-  color:#4D9078;
+    margin:0px;
+    clear: both;
+    color:#4D9078;
 }
 
 .project_bio{
-  margin: 0px;
-  font-size: 100%;
-  font-weight: normal;
-  font-style: italic;
-  color: #666;
+    margin: 0px;
+    font-size: 100%;
+    font-weight: normal;
+    font-style: italic;
+    color: #666;
 }
 
 p.project_pic{
-  border: 1px solid #999;
-  width:auto;
-  height: 200px;
-  overflow: hidden;
-  /*border:1px solid #eee;*/
+    border: 1px solid #999;
+    width:auto;
+    height: 200px;
+    overflow: hidden;
+    /*border:1px solid #eee;*/
 }
 
 .project_pic img{
@@ -179,12 +186,12 @@ p.project_pic{
 }
 
 .project_skills{
-  float: right;
-  clear:both;
-  margin-top: 0px;
-  font-size: 90%;
-  font-weight: normal;
-  color: #666;
+    float: right;
+    clear:both;
+    margin-top: 0px;
+    font-size: 90%;
+    font-weight: normal;
+    color: #666;
 }
 /*
 .portfolio{
@@ -198,30 +205,30 @@ p.project_pic{
 #contact_table{}
 
 #contact_table td{
-  vertical-align:middle;
-  text-align: right;
-  padding: 10px;
+    vertical-align:middle;
+    text-align: right;
+    padding: 10px;
 }
 #contact_table input[type="submit"]{}
 #contact_table input[type="text"]{
-  float:left;
-  border: 0px;
-  background-color: #d6d6d6;
-  height: 50px;
-  width: 500px;
-  padding: 0px 10px;
+    float:left;
+    border: 0px;
+    background-color: #d6d6d6;
+    height: 50px;
+    width: 500px;
+    padding: 0px 10px;
 }
 
 #contact_table textarea{
-  border: 0px;
-  background-color: #d6d6d6;
-  height: 200px;
-  width: 500px;
-  padding: 0px 10px;
+    border: 0px;
+    background-color: #d6d6d6;
+    height: 200px;
+    width: 500px;
+    padding: 0px 10px;
 }
 
 #contact_table label{
-  font-size: 110%;
+    font-size: 110%;
 }
 
 /* General button style (reset) */

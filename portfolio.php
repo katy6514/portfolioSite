@@ -55,7 +55,7 @@
             <div class="col span_3_of_3">
 
                 <div class="project_box">
-                    <a href="http://cxc.harvard.edu/cdo/xray_surveyor/">
+                    <a href="http://cxc.harvard.edu/cdo/xray_surveyor/" target="_blank">
                         <h2 class="project_title" target="_blank">X-ray Surveyor Website</h2>
                     </a>
                     <p class="project_bio">Website for a science workshop held in DC, Oct 2015.</p>
@@ -69,12 +69,12 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="#">
+                    <a href="http://thecrystalbeth.com/" target="_blank">
                         <h2 class="project_title">The Crystal Beth</h2>
                     </a>
                     <p class="project_bio">Crystal Beth is a comedienne in NYC.</p>
                     <p class="project_pic">
-                        <a href="http://thecrystalbeth.com/">
+                        <a href="http://thecrystalbeth.com/" target="_blank">
                             <img src="img/crysPic.jpg" alt="" />
                         </a>
                     </p>
@@ -83,12 +83,12 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="#">
+                    <a href="http://cxc.harvard.edu/cdo/hrxs2015/" target="_blank">
                         <h2 class="project_title">HRXS 2015</h2>
                     </a>
                     <p class="project_bio">Website for a conference on High-Resolution X-ray Spectroscopy</p>
                     <p class="project_pic">
-                        <a href="http://cxc.harvard.edu/cdo/hrxs2015/">
+                        <a href="http://cxc.harvard.edu/cdo/hrxs2015/" target="_blank">
                             <img src="img/hrxs.jpg" alt="" />
                         </a>
                     </p>
@@ -97,12 +97,12 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="#">
+                    <a href="http://pack.katherinewyman.com/" target="_blank">
                         <h2 class="project_title">Pack Weight</h2>
                     </a>
                     <p class="project_bio">A simple Javascript pack weight calculator</p>
                     <p class="project_pic">
-                        <a href="#">
+                        <a href="http://pack.katherinewyman.com/" target="_blank">
                             <img src="img/packweight.jpg" alt="" />
                         </a>
                     </p>
@@ -111,12 +111,12 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="#">
+                    <a href="#" target="_blank">
                         <h2 class="project_title">Developer's Tool Box</h2>
                     </a>
                     <p class="project_bio">My most google-ed for tools while building websites.</p>
                     <p class="project_pic">
-                        <a href="#">
+                        <a href="#" target="_blank">
                             <img src="img/pwGenerator.jpg" alt="" />
                         </a>
                     </p>
@@ -125,12 +125,12 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="#">
+                    <a href="http://cxc.harvard.edu/target_lists/large_projects/BPs.html" target="_blank">
                         <h2 class="project_title">Chandra Data Tables</h2>
                     </a>
                     <p class="project_bio">A better way to list all of Chandra's observed targets.</p>
                     <p class="project_pic">
-                        <a href="http://cxc.harvard.edu/target_lists/large_projects/BPs.html">
+                        <a href="http://cxc.harvard.edu/target_lists/large_projects/BPs.html" target="_blank">
                             <img src="img/datatables.jpg" alt="" />
                         </a>
                     </p>
@@ -138,27 +138,27 @@
                     <br class="clear" />
                 </div>
 
-                <div class="project_box">
-                    <a href="#">
+                <!-- <div class="project_box">
+                    <a href="#" target="_blank">
                         <h2 class="project_title">CARE</h2>
                     </a>
                     <p class="project_bio">A Catabase. For CARE Wildcat Rescue.</p>
                     <p class="project_pic">
-                        <a href="#">
+                        <a href="#" target="_blank">
                             <img src="img/catpic.jpg" alt="" />
                         </a>
                     </p>
                     <p class="project_skills">Laravel</p>
                     <br class="clear" />
-                </div>
+                </div> -->
 
                 <div class="project_box">
-                    <a href="#">
+                    <a href="./reviewHelper.php" target="_blank">
                         <h2 class="project_title">Review Helper</h2>
                     </a>
                     <p class="project_bio">A tool for visualizing time allocations for the Chandra Space Telescope.</p>
                     <p class="project_pic">
-                        <a href="#">
+                        <a href="./reviewHelper.php" target="_blank">
                             <img src="img/reviewHelper.jpg" alt="" />
                         </a>
                     </p>
@@ -167,12 +167,12 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="#">
+                    <a href="#" target="_blank">
                         <h2 class="project_title">Chandra Bubbles</h2>
                     </a>
                     <p class="project_bio">A visualization of the first 15 years of proposals approved for the Chandra Space Telescope</p>
                     <p class="project_pic">
-                        <a href="#">
+                        <a href="#" target="_blank">
                             <img src="img/bubbles.jpg" alt="" />
                         </a>
                     </p>
