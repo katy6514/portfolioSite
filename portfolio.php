@@ -167,12 +167,12 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="#" target="_blank">
+                    <a href="http://bubbles.katherinewyman.com/" target="_blank">
                         <h2 class="project_title">Chandra Bubbles</h2>
                     </a>
                     <p class="project_bio">A visualization of the first 15 years of proposals approved for the Chandra Space Telescope</p>
                     <p class="project_pic">
-                        <a href="#" target="_blank">
+                        <a href="http://bubbles.katherinewyman.com/" target="_blank">
                             <img src="img/bubbles.jpg" alt="" />
                         </a>
                     </p>

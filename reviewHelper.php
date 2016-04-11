@@ -51,7 +51,7 @@
 
             <p> The tool is broken down into three sections:</p>
 
-            <p><span class="bold">Review Summary</span>: Contains overall balances for every quota accross the entire meeting. Clicking on a new allocation will display which panels are over/under that allocation.</p>
+            <p><span class="bold">Review Summary</span>: Contains overall balances for every quota across the entire meeting. Clicking on a new allocation will display which panels are over/under that allocation.</p>
 
             <p><span class="bold">Panel Details</span>: Each vertical bar in this section represents each panel and contains every proposal in each panel ordered by grade given by the panel. Proposals are colored green if they were approved for time by the panel, grey if they panel thinks they should get time even though they had run out of time to award, and red if the panel has decided they proposal should not get time. The height of each proposal bar represents the amount of telescope time the proposal was made for. Hovering over each proposal yields more information about that proposal.</p>
 
