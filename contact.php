@@ -59,19 +59,26 @@
       <table id="contact_table">
         <tr>
           <td><label for="first_name">First Name</label></td>
-          <td><input type="text" name="first_name" maxlength="50" size="30"></td>
+          <td><input type="text" name="first_name" maxlength="50" size="30" required></td>
         </tr>
         <tr>
           <td><label for="last_name">Last Name</label></td>
-          <td><input type="text" name="last_name" maxlength="50" size="30"></td>
+          <td><input type="text" name="last_name" maxlength="50" size="30" required></td>
         </tr>
         <tr>
           <td><label for="email">Email Address</label></td>
-          <td><input type="text" name="email" maxlength="80" size="30"></td>
+          <td><input type="text" name="email" maxlength="80" size="30" required></td>
         </tr>
+
+        <tr class="antispam">
+          <td><label for="url">Leave this empty</label></td>
+          <td><input type="text" name="url" maxlength="80" size="30"></td>
+        </tr>
+
+
         <tr>
-          <td><label for="comments">Comments</label></td>
-          <td><textarea name="comments" maxlength="1000" cols="25" rows="6"></textarea></td>
+          <td><label for="comments">Message</label></td>
+          <td><textarea name="comments" maxlength="1000" cols="25" rows="6" required></textarea></td>
         </tr>
         <tr>
           <td colspan="2" style="text-align:center">
