@@ -70,16 +70,45 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="http://thecrystalbeth.com/" target="_blank">
-                        <h2 class="project_title">The Crystal Beth</h2>
+                    <a href="http://bubbles.katherinewyman.com/" target="_blank">
+                        <h2 class="project_title">Chandra Bubbles</h2>
                     </a>
-                    <p class="project_bio">Crystal Beth is a comedienne in NYC.</p>
+                    <p class="project_bio">A visualization of the first 15 years of proposals approved for the Chandra Space Telescope</p>
                     <p class="project_pic">
-                        <a href="http://thecrystalbeth.com/" target="_blank">
-                            <img src="img/crysPic.jpg" alt="" />
+                        <a href="http://bubbles.katherinewyman.com/" target="_blank">
+                            <img src="img/bubbles.jpg" alt="" />
                         </a>
                     </p>
-                    <p class="project_skills">Wordpress, Responsive Design</p>
+                    <p class="project_skills">D3, Javascript</p>
+                    <br class="clear" />
+                </div>
+
+                <div class="project_box">
+                    <a href="http://pack.katherinewyman.com/" target="_blank">
+                        <h2 class="project_title">Pack Weight</h2>
+                    </a>
+                    <p class="project_bio">A simple Javascript pack weight calculator</p>
+                    <p class="project_pic">
+                        <a href="http://pack.katherinewyman.com/" target="_blank">
+                            <img src="img/packweight.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
+                    <br class="clear" />
+                </div>
+
+
+                <div class="project_box">
+                    <a href="#" target="_blank">
+                        <h2 class="project_title">Developer's Tool Box</h2>
+                    </a>
+                    <p class="project_bio">My most google-ed for tools while building websites.</p>
+                    <p class="project_pic">
+                        <a href="#" target="_blank">
+                            <img src="img/pwGenerator.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">Laravel, PHP, HTML, CSS, JS</p>
                     <br class="clear" />
                 </div>
 
@@ -98,30 +127,16 @@
                 </div>
 
                 <div class="project_box">
-                    <a href="http://pack.katherinewyman.com/" target="_blank">
-                        <h2 class="project_title">Pack Weight</h2>
+                    <a href="http://thecrystalbeth.com/" target="_blank">
+                        <h2 class="project_title">The Crystal Beth</h2>
                     </a>
-                    <p class="project_bio">A simple Javascript pack weight calculator</p>
+                    <p class="project_bio">Crystal Beth is a comedienne in NYC.</p>
                     <p class="project_pic">
-                        <a href="http://pack.katherinewyman.com/" target="_blank">
-                            <img src="img/packweight.jpg" alt="" />
+                        <a href="http://thecrystalbeth.com/" target="_blank">
+                            <img src="img/crysPic.jpg" alt="" />
                         </a>
                     </p>
-                    <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
-                    <br class="clear" />
-                </div>
-
-                <div class="project_box">
-                    <a href="#" target="_blank">
-                        <h2 class="project_title">Developer's Tool Box</h2>
-                    </a>
-                    <p class="project_bio">My most google-ed for tools while building websites.</p>
-                    <p class="project_pic">
-                        <a href="#" target="_blank">
-                            <img src="img/pwGenerator.jpg" alt="" />
-                        </a>
-                    </p>
-                    <p class="project_skills">Laravel, PHP, HTML, CSS, JS</p>
+                    <p class="project_skills">Wordpress, Responsive Design</p>
                     <br class="clear" />
                 </div>
 
@@ -164,20 +179,6 @@
                         </a>
                     </p>
                     <p class="project_skills">D3, Javascript, PHP, Databases</p>
-                    <br class="clear" />
-                </div>
-
-                <div class="project_box">
-                    <a href="http://bubbles.katherinewyman.com/" target="_blank">
-                        <h2 class="project_title">Chandra Bubbles</h2>
-                    </a>
-                    <p class="project_bio">A visualization of the first 15 years of proposals approved for the Chandra Space Telescope</p>
-                    <p class="project_pic">
-                        <a href="http://bubbles.katherinewyman.com/" target="_blank">
-                            <img src="img/bubbles.jpg" alt="" />
-                        </a>
-                    </p>
-                    <p class="project_skills">D3, Javascript</p>
                     <br class="clear" />
                 </div>
             </div> <!-- Close span_3_of_3 -->

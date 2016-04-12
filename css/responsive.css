@@ -142,11 +142,43 @@ and (max-width : 900px)
 @media only screen
 and (max-width : 655px)
 /*and (min-width : 501px)*/ {
-  .col {
-    margin: 1%;
-  }
-  .span_2_of_3 { width: 100%; }
-  .span_1_of_3 { width: 100%; }
+    .col {
+        margin: 1%;
+    }
+    .span_2_of_3 { width: 100%; }
+    .span_1_of_3 { width: 100%; }
+
+    p#profile_pic{
+        width:300px;
+        margin: 0 auto;
+    }
+
+    .glance li{
+        width:50%;
+    }
+
+    p.project_pic{
+        height: 150px;
+    }
+    #contact_table td{
+        text-align: left;
+        width:100%;
+        float:left;
+    }
+    #contact_table td:first-child {
+        padding-bottom: 3px;
+    }
+    #contact_table td:nth-child(2) {
+        padding-top: 0;
+    }
+    #contact_table{
+        width: 100%;
+    }
+    #contact_table input[type="text"],#contact_table textarea{
+        width: 100%;
+    }
+
+
 }
 
 
@@ -192,12 +224,15 @@ and (max-width: 450px){
 		margin: 0 20px 0 0;
 		vertical-align: middle;
 	}
+    p#profile_pic{
+        width:auto;
+        margin: 0 auto;
+    }
+    .glance li{
+        padding:0 20px;
+        width:100%;
+    }
 
-}
-
-
-@media only screen
-and (max-width: 450px){
 }
 
 
