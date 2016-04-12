@@ -98,7 +98,7 @@
                 </div>
 
 
-                <div class="project_box">
+                <!-- <div class="project_box">
                     <a href="#" target="_blank">
                         <h2 class="project_title">Developer's Tool Box</h2>
                     </a>
@@ -110,7 +110,7 @@
                     </p>
                     <p class="project_skills">Laravel, PHP, HTML, CSS, JS</p>
                     <br class="clear" />
-                </div>
+                </div> -->
 
                 <div class="project_box">
                     <a href="http://cxc.harvard.edu/cdo/hrxs2015/" target="_blank">
