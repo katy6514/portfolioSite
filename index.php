@@ -16,6 +16,7 @@
 
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <!-- Place favicon.ico in the root directory -->
+  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
 
   <!-- Responsive and mobile friendly stuff -->
   <meta name="HandheldFriendly" content="True">
@@ -34,7 +35,7 @@
 </head>
 <body>
     <aside class="sidebar-left">
-    <a class="company-logo" href="#">KIW</a>
+    <a class="company-logo" href="./">KIW</a>
     <div class="social-links-top">
     <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
     <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
