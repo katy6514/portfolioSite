@@ -224,10 +224,10 @@ and (max-width: 450px){
 		margin: 0 20px 0 0;
 		vertical-align: middle;
 	}
-    p#profile_pic{
-        width:auto;
+    /*p#profile_pic{
+        width:300px;
         margin: 0 auto;
-    }
+    }*/
     .glance li{
         padding:0 20px;
         width:100%;
@@ -239,6 +239,10 @@ and (max-width: 450px){
 
 @media only screen
 and (max-width: 396px){
+    p#profile_pic{
+        width:200px;
+        margin: 0 auto;
+    }
 }
 
 
