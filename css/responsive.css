@@ -243,6 +243,9 @@ and (max-width: 396px){
         width:200px;
         margin: 0 auto;
     }
+    p.project_pic{
+        height: 100px;
+    }
 }
 
 
