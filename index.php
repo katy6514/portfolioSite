@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title></title>
+  <title>Katherine Wyman - Home</title>
   <meta http-equiv="content-language" content="en-US"/>
   <meta name="keywords" content="" />
   <meta name="creator" content=""/>
