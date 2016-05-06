@@ -53,7 +53,11 @@ a:visited {
     text-decoration: none;
 }
 
+#hikeLink a:visited{
+    color: #7A339B;
+    text-decoration: none;
 
+}
 
 .bold{
     font-weight: bold;

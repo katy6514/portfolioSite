@@ -76,14 +76,14 @@
                                 <!-- One line for responsibilities, two for accomplishments -->
                                 <!-- Responsibilities -->
 
-                                <li>Maintained databases, provided in-house software writing, assisted in testing/proof-reading of web-based tools, webpages, and other documents/deliverables. Provide customer support to observers through help desk system.</li>
+                                <li>Maintained databases, provided in-house software writing, assisted in testing/proof-reading of web-based tools, web pages, and other documents/deliverables. Provide customer support to observers through help desk system.</li>
 
 
                                 <!-- Accomplishment -->
                                 <li>Developed online registration process for Chandra X-ray Center-sponsored conferences, and generated private registration statistic pages for administration teams.</li> <!--Development and maintenance of websites for CXC sponsored conferences, meetings and symposia. Provided in-person technical support during events.</li>-->
 
                                 <!-- Accomplishment -->
-                                <li>Re-designed Chandra X-ray Center meeting websites with responsive design techniques. Updated static pages of astronomical targets observed by Chandra with a modern, interactivness, added sorting/searching/saving capabilities.</li>
+                                <li>Re-designed Chandra X-ray Center meeting websites with responsive design techniques. Updated static pages of astronomical targets observed by Chandra with modern, interactive features, including sorting/searching/saving capabilities.</li>
 
                                 <!-- <li>Represented Chandra X-ray Center at astronomical meetings. Developed engaging activities to promote education and interest in astronomy for children.</li> -->
 
@@ -118,7 +118,7 @@
                     <tr>
                         <td colspan="2">
                             <ul>
-                                <li>Led students in outdoor astronomy labs. Introduced students to the concepts of telescope design, instructed students on how to use astronomical equipment for public observing and the aquisition of data for astronomical research.</li>
+                                <li>Led students in outdoor astronomy labs. Introduced students to the concepts of telescope design, instructed students on how to use astronomical equipment for public observing and the acquisition of data for astronomical research.</li>
                                 <li>Held office hours for review of lecture material or help with homework assignments.</li>
                                 <li>Ran labs for undergraduate astronomy majors designed to teach them about the solar system, historical astronomical discoveries, the nature of the EM spectrum, astronomical observing, the expansion of the universe and the cosmos at large.</li>
                             </ul>

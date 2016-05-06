@@ -64,7 +64,7 @@
 
                 <p>I'm currently teaching with the <a href="http://thewc.co/" target="_blank">Women's Coding Collective</a>, a Boston-based initiative commited to helping women succeed in web development.</p>
 
-                <p>I'm hiking the <a href="http://www.pcta.org/" target="_blank">PCT</a> during the summer of 2016, apologies if I appear unresponsive! I might just be a little lost in the woods. Follow my trip at <a href="http://www.katyhikes.com" target="_blank">katyhikes.com</a></p>
+                <p>I'm hiking the <a href="http://www.pcta.org/" target="_blank">PCT</a> during the summer of 2016, apologies if I appear unresponsive! I might just be a little lost in the woods. Follow my trip at <a id="hikeLink" href="http://www.katyhikes.com" target="_blank">katyhikes.com</a></p>
 
             </div>
             <div class="col span_1_of_3">
