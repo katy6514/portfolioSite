@@ -3,7 +3,7 @@
 if(isset($_POST['email'])) {
 
     // Katy's settings
-    $email_to = "katy6514@gmail.com";
+    $email_to = "katherine.i.wyman@gmail.com";
     $email_subject = "An email from your website";
 
     function died($error) {
