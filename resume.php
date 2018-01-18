@@ -36,7 +36,6 @@
         <div class="social-links-top">
             <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
             <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
-            <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
         </div>
         <div class="sidebar-links">
             <a class="link-blue " href="./index.php"><i class="fa fa-home"></i>Home</a>
@@ -47,7 +46,6 @@
         <div class="social-links-bottom">
             <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
             <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
-            <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
         </div>
     </aside>
 
@@ -60,6 +58,30 @@
                     <!-- Employment -->
                     <tr class="section_header">
                         <td colspan="2"><h2>Employment</h2></td>
+                    </tr>
+
+                    <tr class="header_row">
+                        <td colspan="2"><h3>Instructor/Developer</h3></td>
+                    </tr>
+                    <tr>
+                        <td class="location">Women's Coding Collective</td>
+                        <td class="dates">2015-2017</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <ul>
+                                <!-- One line for responsibilities, two for accomplishments -->
+                                <!-- Responsibilities -->
+
+                                <li>Provided online support for students in the following classes: PHP, Javascript and Jquery, Wordpress Basics, CSS Basics, CSS Layouts and Positioning.</li>
+
+
+                                <!-- Accomplishment -->
+                                <li>Blog design, Newsletter writing and editing, testing of web-based courses and quizzes. Provided feedback on student assignments.</li>
+
+
+                            </ul>
+                        </td>
                     </tr>
 
                     <tr class="header_row">
@@ -96,7 +118,7 @@
                     </tr>
                     <tr>
                         <td class="location">Harvard University, Cambridge, MA</td>
-                        <td class="dates">2014-2015</td>
+                        <td class="dates">2014-2017</td>
                     </tr>
                     <tr>
                         <td colspan="2">

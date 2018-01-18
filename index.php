@@ -39,7 +39,6 @@
     <div class="social-links-top">
     <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
     <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
-    <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
     </div>
     <div class="sidebar-links">
     <a class="link-blue selected" href="./index.php"><i class="fa fa-home"></i>Home</a>
@@ -50,7 +49,6 @@
     <div class="social-links-bottom">
     <a href="https://www.linkedin.com/in/katherine-wyman-6bbb7863" target="_blank"><i class="fa fa-linkedin-square"></i></a>
     <a href="https://github.com/katy6514" target="_blank"><i class="fa fa-github-square"></i></a>
-    <a href="https://twitter.com/katy_whyman" target="_blank"><i class="fa fa-twitter-square"></i></a>
     </div>
     </aside>
 
@@ -62,7 +60,8 @@
 
                 <p>In a previous life I was an astronomer working for the <a href="http://chandra.si.edu/" target="_blank">Chandra Space Telescope</a>. Now I find myself enjoying making easy to use and nice-looking sites, regardless of viewport size.</p>
 
-                <p>I'm currently teaching with the <a href="http://thewc.co/" target="_blank">Women's Coding Collective</a>, a Boston-based initiative commited to helping women succeed in web development.</p>
+                <p>During the summer of 2017, I spent 6 months hiking the <a href="http://www.pcta.org/" target="_blank">Pacific Crest Trail</a>, a 2,660 mile trail that stretches from the Mexican border to the Canadian border through California, Oregon and Washington. It was the trip of a lifetime. You can <a href="https://photos.app.goo.gl/28jnlioGMlvugeuG3" target="_blank">check out some of my photos here</a>.</p>
+
 
                 <!-- <p>I'm hiking the <a href="http://www.pcta.org/" target="_blank">PCT</a> during the summer of 2016, apologies if I appear unresponsive! I might just be a little lost in the woods. Follow my trip at <a id="hikeLink" href="http://www.katyhikes.com" target="_blank">katyhikes.com</a></p> -->
 
