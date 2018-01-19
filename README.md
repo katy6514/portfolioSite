@@ -1,3 +1,5 @@
 # Portfolio Site
 
-A small sample of my work, resume and a contact form.
+A selection of my work, including a resume and a contact form.
+
+Live site at: [www.katherinewyman.com](http://www.katherinewyman.com/)
