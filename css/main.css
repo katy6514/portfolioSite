@@ -400,25 +400,25 @@ p.project_pic{
 
 .sidebar-left .social-links-top {
   display: none;
-	width: 50%;
+	width: 100%;
 	margin: 10px auto;
 }
 
 .sidebar-left .social-links-top a i.fa {
-	font-size: 25px;
+	font-size: 40px;
 	margin: 3px;
 	color: #666;
 }
 
 .sidebar-left .social-links-bottom {
-	width: 25%;
+	width: 35%;
 	margin: 10px auto;
 }
 
 .sidebar-left .social-links-bottom a i.fa {
     float: left;
     clear:both;
-	font-size: 25px;
+	font-size: 40px;
 	margin: 3px;
 	color: #666;
 }

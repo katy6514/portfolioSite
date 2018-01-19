@@ -54,34 +54,6 @@
             <div class="col span_3_of_3">
 
                 <div class="project_box">
-                    <a href="http://devtools.katherinewyman.com/" target="_blank">
-                        <h2 class="project_title" target="_blank">Developer's Toolbox</h2>
-                    </a>
-                    <p class="project_bio">PHP-driven application for generating data and passwords.</p>
-                    <p class="project_pic">
-                        <a href="http://devtools.katherinewyman.com/" target="_blank">
-                            <img src="img/devtools.svg" alt="" />
-                        </a>
-                    </p>
-                    <p class="project_skills">Laravel, PHP, HTML, CSS, Responsive Design</p>
-                    <br class="clear" />
-                </div>
-
-                <div class="project_box">
-                    <a href="http://cxc.harvard.edu/cdo/xray_surveyor/" target="_blank">
-                        <h2 class="project_title" target="_blank">X-ray Surveyor Website</h2>
-                    </a>
-                    <p class="project_bio">Website for a science workshop held in DC, Oct 2015.</p>
-                    <p class="project_pic">
-                        <a href="http://cxc.harvard.edu/cdo/xray_surveyor/" target="_blank">
-                            <img src="img/xraySurveyor.jpg" alt="" />
-                        </a>
-                    </p>
-                    <p class="project_skills">JQuery, JS, HTML, CSS, Responsive Design</p>
-                    <br class="clear" />
-                </div>
-
-                <div class="project_box">
                     <a href="http://bubbles.katherinewyman.com/" target="_blank">
                         <h2 class="project_title">Chandra Bubbles</h2>
                     </a>
@@ -106,6 +78,34 @@
                         </a>
                     </p>
                     <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
+                    <br class="clear" />
+                </div>
+
+                <div class="project_box">
+                    <a href="http://devtools.katherinewyman.com/" target="_blank">
+                        <h2 class="project_title" target="_blank">Developer's Toolbox</h2>
+                    </a>
+                    <p class="project_bio">PHP-driven application for generating data and passwords.</p>
+                    <p class="project_pic">
+                        <a href="http://devtools.katherinewyman.com/" target="_blank">
+                            <img src="img/devtools.svg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">Laravel, PHP, HTML, CSS, Responsive Design</p>
+                    <br class="clear" />
+                </div>
+
+                <div class="project_box">
+                    <a href="http://cxc.harvard.edu/cdo/xray_surveyor/" target="_blank">
+                        <h2 class="project_title" target="_blank">X-ray Surveyor Website</h2>
+                    </a>
+                    <p class="project_bio">Website for a science workshop held in DC, Oct 2015.</p>
+                    <p class="project_pic">
+                        <a href="http://cxc.harvard.edu/cdo/xray_surveyor/" target="_blank">
+                            <img src="img/xraySurveyor.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">JQuery, JS, HTML, CSS, Responsive Design</p>
                     <br class="clear" />
                 </div>
 
@@ -135,20 +135,6 @@
                         </a>
                     </p>
                     <p class="project_skills">HTML, CSS, JS, Responsive Design</p>
-                    <br class="clear" />
-                </div>
-
-                <div class="project_box">
-                    <a href="http://thecrystalbeth.com/" target="_blank">
-                        <h2 class="project_title">The Crystal Beth</h2>
-                    </a>
-                    <p class="project_bio">Crystal Beth is a comedienne in NYC.</p>
-                    <p class="project_pic">
-                        <a href="http://thecrystalbeth.com/" target="_blank">
-                            <img src="img/crysPic.jpg" alt="" />
-                        </a>
-                    </p>
-                    <p class="project_skills">Wordpress, Responsive Design</p>
                     <br class="clear" />
                 </div>
 
@@ -191,6 +177,20 @@
                         </a>
                     </p>
                     <p class="project_skills">D3, Javascript, PHP, Databases</p>
+                    <br class="clear" />
+                </div>
+
+                <div class="project_box">
+                    <a href="http://thecrystalbeth.com/" target="_blank">
+                        <h2 class="project_title">The Crystal Beth</h2>
+                    </a>
+                    <p class="project_bio">Crystal Beth is a comedienne in NYC.</p>
+                    <p class="project_pic">
+                        <a href="http://thecrystalbeth.com/" target="_blank">
+                            <img src="img/crysPic.jpg" alt="" />
+                        </a>
+                    </p>
+                    <p class="project_skills">Wordpress, Responsive Design</p>
                     <br class="clear" />
                 </div>
             </div> <!-- Close span_3_of_3 -->

@@ -109,8 +109,7 @@ and (max-width : 900px)
 
   .sidebar-left .social-links-top {
   	display: block;
-    width:100px;
-
+    width:85px;
   }
 
   /*.sidebar-left .social-links-top a i.fa {
