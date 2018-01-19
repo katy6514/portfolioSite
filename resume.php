@@ -53,6 +53,9 @@
 
         <div class="section group">
             <div class="col span_2_of_3">
+
+                <a href="./img/KatherineWymanResume2017.pdf">Download Resume PDF</a>
+
                 <table id="resume">
 
                     <!-- Employment -->
