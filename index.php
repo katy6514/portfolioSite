@@ -76,6 +76,7 @@
                 <h3>Experience with:</h3>
                 <ul>
                     <li>Object Oriented PHP</li>
+                    <li>LAMP Stack</li>
                     <li>Laravel</li>
                     <li>Javascript &amp; JQuery</li>
                     <li>Python</li>

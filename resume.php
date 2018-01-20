@@ -54,7 +54,7 @@
         <div class="section group">
             <div class="col span_2_of_3">
 
-                <a href="./img/KatherineWymanResume2017.pdf">Download Resume PDF</a>
+                <a href="./incl/KatherineWymanResume2017.pdf">Download Resume PDF</a>
 
                 <table id="resume">
 
@@ -128,7 +128,7 @@
                             <ul>
                                 <li>Held weekly review sessions of course material and classwork troubleshooting for students. Provided additional guidance through an online forum and chat service.</li>
                                 <li>Graded student submissions, provided feedback and suggested improvements on code, interface, usability and errors for web applications written in PHP and Laravel.</li>
-                                <li>Course topics included: basic server configuration, simple version control with Git, databases and CRUD operations, user authentication, and modern web development best practices.</li>
+                                <li>Course topics included: server configuration, version control with Git, databases and CRUD operations, user authentication, and modern web development best practices.</li>
                             </ul>
                         </td>
                     </tr>
