@@ -54,7 +54,7 @@
         <div class="section group">
             <div class="col span_2_of_3">
 
-                <a href="./incl/KatherineWymanResume2017.pdf">Download Resume PDF</a>
+                <a href="./incl/Katherine_Wyman_resume.pdf">Download Resume PDF</a>
 
                 <table id="resume">
 
